@@ -24,7 +24,7 @@ Sample Output
 
 [[0, 0, 0], [0, 0, 1], [0, 1, 0], [1, 0, 0], [1, 1, 1]]
 
-# repo part 5 -> arranging the words in a tring in lexicographical order
+# repo part 5 -> arranging the words in a string in lexicographical order
 # repo part 6 ->Find the Runner-Up Score
 Problem Statement
 Given the participants' score sheet for your University Sports Day, you are required to find the runner-up score. You are given scores. Store them in a list and find the score of the runner-up.
