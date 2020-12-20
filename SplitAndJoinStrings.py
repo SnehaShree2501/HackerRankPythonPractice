@@ -1,0 +1,6 @@
+line = input("Enter the string to perform the operation")
+splitDelimiter = input ("Enter the spliting agent(delimiter), character or word or letter or pharese(s) that is to be removed from the input")
+line = line.split(splitDelimiter)
+joinDelimiter= input ("Enter the joining agent(delimiter), character or word or letter or pharese(s) that is to be added to the input")
+line = joinDelimiter. join(line)
+print(line)
